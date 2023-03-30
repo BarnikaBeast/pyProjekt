@@ -1,0 +1,20 @@
+Harry Kane:Tottenham:312
+Lionel Messi:Psg:1000
+Cristiano Ronaldo:Al-Nassr:1115
+Marcus Rashford:Manchester United:128
+Robert Lewandowski:Fc Barcelona:627
+Karim Benzema:Real Madrid:441
+Roberto Soldado:Levante:234
+Erling Haaland:Manchester City:143
+Myrto Uzuni:Granada:61
+Joao Felix:Chelsea:131
+Ivan Rakitic:Sevilla:40
+Sadio Mane:Fc Bayern Munich:111
+Victor Osimhen:Napoli:99
+Dibusz Dénes:Ferencvárosi TC:1
+Paulo Dybala:Roma FC:170
+Kenan Kodro:Mol Fehérvár Fc:51
+Mohamed Salah:Liverpool Fc:300
+Joselu:Espanyol FC:104
+Adayemi Karim:Borussia Dortmund:75
+Ngolo Kante:Chelsea:24
